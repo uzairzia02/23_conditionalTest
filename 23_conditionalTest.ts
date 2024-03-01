@@ -54,10 +54,3 @@ console.log(car.toLowerCase() != "toyota");
 
 console.log("10. Is car.lowercase == 'Bus'? I predict False");
 console.log(car.toLowerCase() == "bus");
-
-
-
-
-
-
-
